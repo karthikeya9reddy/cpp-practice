@@ -11,7 +11,7 @@ int main() {
 
 // explanation 
 
-// <iostram> :- is a header file in C++ that provides functionalities for input and output operations. It allows the program to read from standard input (like keyboard) and write to standard output (like console).
+// <iostream> :- is a header file in C++ that provides functionalities for input and output operations. It allows the program to read from standard input (like keyboard) and write to standard output (like console).
 
 // int main() :- This is the main function where the execution of the program begins. It is the entry point of a C++ program.
 

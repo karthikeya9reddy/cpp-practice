@@ -18,3 +18,4 @@ int main() {
 // char = - This is a data type in C++ that is used to declare variables that can hold single characters. In this code, 'c' is declared as a char.  
 //double = - This is a data type in C++ that is used to declare variables that can hold double-precision floating-point numbers (numbers with decimal points). In this code, 'pie' could also be declared as a double for more precision, but it is declared as a float here.   
 // boolean = - This is a data type in C++ that is used to declare variables that can hold boolean values (true or false). In this code, there are no boolean variables declared, but they can be used in conditional statements and logical operations. 
+// the above variables are also called built-in data types in C++ because they are provided by the language itself and are commonly used for basic programming tasks.
