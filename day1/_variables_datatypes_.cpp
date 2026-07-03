@@ -6,12 +6,16 @@ int main() {
     int b = 456;
     float pie = 3.14;
     char c = 'p';
-    cout << "the value of a is : " << a << "\n the value of b is : " << b << "\n the sum of a and b is : " << a + b << "\n the value of pie is : " << pie << "\n the value of c is : " <<c<< "\nthe sum of a and b and pie is: "<< a +b +pie;
+    bool name  = true;   
+
+    cout << "the value of a is : " << a << name << "\n the value of b is : " << b << name << "\n the sum of a and b is : " << a + b << "\n the value of pie is : " << pie << "\n the value of c is : " <<c<<
+     "\nthe sum of a and b and pie is: "<< a +b +pie <<name;
     return 0;
+
 }
 
 
-// explanation
+// explanation of data types used in the code above
 
 // int = - This is a data type in C++ that is used to declare variables that can hold integer values (whole numbers). In this code, 'a' and 'b' are declared as integers.
 // float = - This is a data type in C++ that is used to declare variables that can hold floating-point numbers (numbers with decimal points). In this code, 'pie' is declared as a float.
