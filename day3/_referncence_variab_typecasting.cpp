@@ -34,26 +34,31 @@ int main() {
 
 // harshit --> cherry --. monkey ---> harsh 
 // float x = 455;
-// float & y = x; // y is a reference variable to x and & is used to declare a reference variable
+// float &y = x; // y is a reference variable to x and & is used to declare a reference variable
 // cout<<x<<endl;
 // cout<<y<<endl;
 
+// float y = 20;
+// cout<<x<<endl; 
+// cout<<y<<endl;
+// prints x= 20 and y= 20
+
 // **************** typecasting **************** //coverting one data type to another data type
 
-int a = 45; 
-float b = 45.6;
-cout<<"the value of a is : "<<(float)a<<endl; // typecasting a to float
-cout<<"the value of a is : "<<float(a)<<endl; // typecasting a to float
-cout<<"the value of b is : "<<(int)b<<endl; // typecasting b to int
-cout<<"the value of b is : "<<int(b)<<endl; // typecasting b to int
-cout<<"the value of a is : "<<(double)a<<endl; // typecasting a to double
-cout<<"the value of b is : "<<(long double)b<<endl; // typecasting b to long double 
+// int a = 45; 
+// float b = 45.6;
+// cout<<"the value of a is : "<<(float)a<<endl; // typecasting a to float
+// cout<<"the value of a is : "<<float(a)<<endl; // typecasting a to float
+// cout<<"the value of b is : "<<(int)b<<endl; // typecasting b to int
+// cout<<"the value of b is : "<<int(b)<<endl; // typecasting b to int
+// cout<<"the value of a is : "<<(double)a<<endl; // typecasting a to double
+// cout<<"the value of b is : "<<(long double)b<<endl; // typecasting b to long double 
 
-cout<<"the expression is : "<<a+b<<endl; // typecasting a to float and b to int and then adding them
-cout<<"the expression is : "<<a + int(b)<<endl; // typecasting a to float and b to int and then adding them
-cout<<"the expression is : "<<(float)a + b<<endl; // typecasting a to float and b to int and then adding them
+// cout<<"the expression is : "<<a+b<<endl; // typecasting a to float and b to int and then adding them
+// cout<<"the expression is : "<<a + int(b)<<endl; // typecasting a to float and b to int and then adding them
+// cout<<"the expression is : "<<(float)a + b<<endl; // typecasting a to float and b to int and then adding them
 
 
 
-    return 0;   
-}
+//     return 0;   
+// }
