@@ -32,6 +32,7 @@ int main() {
 //  It is used to refer to the same memory location as the original variable. It is declared using the & operator. 
 // Reference variables are used to avoid copying large data structures and to allow functions to modify the original variable.
 
+// harshit --> cherry --. monkey ---> harsh 
 // float x = 455;
 // float & y = x; // y is a reference variable to x and & is used to declare a reference variable
 // cout<<x<<endl;
