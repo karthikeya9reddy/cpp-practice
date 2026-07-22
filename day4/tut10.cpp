@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 
-    /*continue in loop*/
+    /*break in loop*/
     
    //for(int i = 0; i < 40; i++)
     // {
