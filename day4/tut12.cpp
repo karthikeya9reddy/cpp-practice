@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     // Array example
-    int marks[] = {32, 45, 78, 98};
+    int marks[4] = {32, 45, 78, 98};
     
     // int mathmarks[4];
     // mathmarks[0] = 24;
