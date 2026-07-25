@@ -25,9 +25,9 @@ using namespace std;
 //type functions-name (arguments);
 //int sum(int a, int b ); //--> Acceptable
 //int sum(int a, b ); //--> not Acceptable
- int sum(int , int  ); //--> Acceptable
-void g(void); //--> Acceptable
-void g(); //--> Acceptable
+//  int sum(int , int  ); //--> Acceptable
+// void g(void); //--> Acceptable
+// void g(); //--> Acceptable
 
 int main(){
     int num1 , num2;
