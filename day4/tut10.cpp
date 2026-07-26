@@ -15,14 +15,14 @@ int main() {
 
     /*break in loops*/
     
-    // for(int i = 0; i < 40; i++)
-    // {
+    for(int i = 0; i < 40; i++)
+    {
         
-    //     if(i==3){
-    //     break;
-    //     }
-    //     cout<<i<<endl;
-    // }
+        if(i==3){
+        break;
+        }
+        cout<<i<<endl;
+    }
 
     /*continue in loop*/
 
