@@ -48,6 +48,6 @@ int main(){
     cin>>b;
     cin>>h; 
     cout<<volume(l, b, h)<<" is the volume of rectangle";
-     
+
     return 0;
 }
