@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//arrays in class 
 class shop
 {
     int itemid[100];
