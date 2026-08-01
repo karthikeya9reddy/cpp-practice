@@ -4,7 +4,7 @@ using namespace std;
 class employee
 {
     int id;
-    // static member variable
+    // static member variable  -----> entire duration of the program's lifetime. Unlike normal variables, it is initialized exactly once and preserves its value even after its enclosing scope is destroyed.
     static int count;
 
 public:
