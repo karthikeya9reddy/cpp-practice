@@ -1,3 +1,5 @@
+/*friend functions in c++*/
+
 #include <iostream>
 using namespace std;
 // 1 + 4i
