@@ -37,7 +37,7 @@ public:
     friend void exchange(c1 &x, c2 &y);
 };
 
-void exchange(c1 &x, c2 &y)
+void exchange(c1 &x, c2 &y) 
 {
     int tmp = x.val1;
     x.val1 = y.val2;
