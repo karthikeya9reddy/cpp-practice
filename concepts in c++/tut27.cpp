@@ -50,4 +50,6 @@ int main()
 4. It can have default arguments 
 
 5. We cannot refer to their address
+
+6. a class can have multuple constructors 
 */
