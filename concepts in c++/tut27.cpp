@@ -21,7 +21,7 @@ public:
     }
 };
 
-complex :: complex(void)  //-----> This is a default constructor as it takes no parameters
+complex :: complex(void)  //-----> This is a default constructor as it accepts no parameters
 {
       a = 10;
       b = 20;
