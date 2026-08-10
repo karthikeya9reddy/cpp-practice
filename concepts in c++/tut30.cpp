@@ -19,8 +19,9 @@ void simple :: printdata(){
 }
 
 int main(){
-    simple s(1);
+    simple s(1), d(12);
     s.printdata();
+    d.printdata();
     
     return 0;
 }
