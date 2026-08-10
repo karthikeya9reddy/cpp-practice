@@ -6,7 +6,7 @@ class num{
     public:
     num(){
         count++;
-        cout<<"this is the time when constructor is called is called for object number"<<count<<endl;
+        cout<<"this is the time when constructor is called for object number"<<count<<endl;
     }
 
     ~num(){
@@ -23,7 +23,7 @@ int main(){
     {
         cout<<"entering this block"<<endl;
         cout<<"creating two more objects"<<endl;
-        num n1, n2;
+        num n2, n3;
         cout<<"exiting this block"<<endl;
     }
     cout<<"back to main"<<endl;
