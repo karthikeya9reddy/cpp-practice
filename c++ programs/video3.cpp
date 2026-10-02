@@ -1,3 +1,4 @@
+//c++ program to reverse a string enter by user !!
 #include <iostream>
 #include <string.h>
 #define MAX_SIZE 100 //maximumsize of the string 
